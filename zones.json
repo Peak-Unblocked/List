@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "How To Fish",
+    "cover": "{COVER_URL}/1.png",
+    "url": "{HTML_URL}/1.html",
+    "special": ["Port"],
+    "author": "Dazed Games, Landfall, NotRexed"
+  }
+]
