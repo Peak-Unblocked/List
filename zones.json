@@ -14,5 +14,13 @@
     "url": "{HTML_URL}/2.html",
     "special": ["Port"],
     "author": "Landfall, NotRexed"
+  },
+  {
+    "id": 3,
+    "name": "Counter-Strike 1.6",
+    "cover": "{COVER_URL}/3.png",
+    "url": "{HTML_URL}/3.html",
+    "special": ["Port"],
+    "author": "Valve, WoahhCrackers"
   }
 ]
