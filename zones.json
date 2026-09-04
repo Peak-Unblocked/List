@@ -6,5 +6,13 @@
     "url": "{HTML_URL}/1.html",
     "special": ["Port"],
     "author": "Dazed Games, Landfall, NotRexed"
+  },
+  {
+    "id": 2,
+    "name": "ClusterTruck",
+    "cover": "{COVER_URL}/2.png",
+    "url": "{HTML_URL}/2.html",
+    "special": ["Port"],
+    "author": "Landfall, NotRexed"
   }
 ]
