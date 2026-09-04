@@ -30,5 +30,13 @@
     "url": "{HTML_URL}/4.html",
     "special": ["Port"],
     "author": "theMeatly, woahhcrackers"
+  },
+  {
+    "id": 5,
+    "name": "Helltaker",
+    "cover": "{COVER_URL}/5.jpg",
+    "url": "{HTML_URL}/5.html",
+    "special": ["Port"],
+    "author": "Łukasz Piskorz, Shxyder"
   }
 ]
