@@ -70,5 +70,13 @@
     "url": "{HTML_URL}/9.html",
     "special": ["Port"],
     "author": "Daniel Mullins Games, Reeyuki"
+  },
+  {
+    "id": 10,
+    "name": "Lobotomy Corporation",
+    "cover": "{COVER_URL}/10.png",
+    "url": "{HTML_URL}/10.html",
+    "special": ["Port"],
+    "author": "Project Moon, Reeyuki"
   }
 ]
