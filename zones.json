@@ -54,5 +54,13 @@
     "url": "{HTML_URL}/7.html",
     "special": ["Port"],
     "author": "Studio MDHR, woahhcrackers"
+  },
+  {
+    "id": 8,
+    "name": "Granny 3",
+    "cover": "{COVER_URL}/8.png",
+    "url": "{HTML_URL}/8.html",
+    "special": ["Port"],
+    "author": "DVloper, Crax"
   }
 ]
