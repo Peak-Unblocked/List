@@ -46,5 +46,13 @@
     "url": "{HTML_URL}/6.html",
     "special": ["Port"],
     "author": "Rockstar Games, Shxyder"
+  },
+  {
+    "id": 7,
+    "name": "Cuphead",
+    "cover": "{COVER_URL}/7.png",
+    "url": "{HTML_URL}/7.html",
+    "special": ["Port"],
+    "author": "Studio MDHR, woahhcrackers"
   }
 ]
