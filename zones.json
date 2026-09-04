@@ -38,5 +38,13 @@
     "url": "{HTML_URL}/5.html",
     "special": ["Port"],
     "author": "Łukasz Piskorz, Shxyder"
+  },
+  {
+    "id": 6,
+    "name": "GTA 3",
+    "cover": "{COVER_URL}/6.png",
+    "url": "{HTML_URL}/6.html",
+    "special": ["Port"],
+    "author": "Rockstar Games, Shxyder"
   }
 ]
