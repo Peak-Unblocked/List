@@ -78,5 +78,13 @@
     "url": "{HTML_URL}/10.html",
     "special": ["Port"],
     "author": "Project Moon, Reeyuki"
+  },
+  {
+    "id": 11,
+    "name": "Stardew Valley",
+    "cover": "{COVER_URL}/11.png",
+    "url": "{HTML_URL}/11.html",
+    "special": ["Port"],
+    "author": "ConcernedApe, Cirsius"
   }
 ]
