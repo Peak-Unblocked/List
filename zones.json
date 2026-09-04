@@ -22,5 +22,13 @@
     "url": "{HTML_URL}/3.html",
     "special": ["Port"],
     "author": "Valve, WoahhCrackers"
+  },
+  {
+    "id": 4,
+    "name": "Bendy and The Ink Machine",
+    "cover": "{COVER_URL}/4.png",
+    "url": "{HTML_URL}/4.html",
+    "special": ["Port"],
+    "author": "theMeatly, WoahhCrackers"
   }
 ]
