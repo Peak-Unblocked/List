@@ -62,5 +62,13 @@
     "url": "{HTML_URL}/8.html",
     "special": ["Port"],
     "author": "DVloper, Crax"
+  },
+  {
+    "id": 9,
+    "name": "Inscryption",
+    "cover": "{COVER_URL}/9.png",
+    "url": "{HTML_URL}/9.html",
+    "special": ["Port"],
+    "author": "Daniel Mullins Games, Reeyuki"
   }
 ]
