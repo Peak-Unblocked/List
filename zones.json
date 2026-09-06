@@ -222,5 +222,13 @@
     "url": "{HTML_URL}/28.html",
     "special": ["Port"],
     "author": "Zed_Technician, dudeluther1232"
+  },
+  {
+    "id": 29,
+    "name": "While True: Learn()",
+    "cover": "{COVER_URL}/29.png",
+    "url": "{HTML_URL}/29.html",
+    "special": ["Port"],
+    "author": "Luden.io, dasher"
   }
 ]
