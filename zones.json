@@ -126,5 +126,13 @@
     "url": "{HTML_URL}/16.html",
     "special": ["Port"],
     "author": "JokuPelle, sexyplankton"
+  },
+  {
+    "id": 17,
+    "name": "Baldi's Basics Birthday Bash",
+    "cover": "{COVER_URL}/17.png",
+    "url": "{HTML_URL}/17.html",
+    "special": ["Port"],
+    "author": "mystman12, woahhcrackers"
   }
 ]
