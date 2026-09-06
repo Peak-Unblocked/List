@@ -166,5 +166,13 @@
     "url": "{HTML_URL}/21.html",
     "special": ["Port"],
     "author": "The Interviewed, sexyplankton"
+  },
+  {
+    "id": 22,
+    "name": "Dice a Million",
+    "cover": "{COVER_URL}/22.png",
+    "url": "{HTML_URL}/22.html",
+    "special": ["Port"],
+    "author": "countlessnights, NotRexed"
   }
 ]
