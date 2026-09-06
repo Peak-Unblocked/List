@@ -134,5 +134,13 @@
     "url": "{HTML_URL}/17.html",
     "special": ["Port"],
     "author": "mystman12, woahhcrackers"
+  },
+  {
+    "id": 18,
+    "name": "Beatblock",
+    "cover": "{COVER_URL}/18.png",
+    "url": "{HTML_URL}/18.html",
+    "special": ["Port"],
+    "author": "BubbleTabby, sunsuke"
   }
 ]
