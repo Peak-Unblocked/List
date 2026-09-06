@@ -142,5 +142,13 @@
     "url": "{HTML_URL}/18.html",
     "special": ["Port"],
     "author": "BubbleTabby, sunsuke"
+  },
+  {
+    "id": 19,
+    "name": "Boil Noodles at Night",
+    "cover": "{COVER_URL}/19.png",
+    "url": "{HTML_URL}/19.html",
+    "special": ["Port"],
+    "author": "arydk, sexyplankton"
   }
 ]
