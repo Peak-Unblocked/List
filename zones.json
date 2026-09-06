@@ -190,5 +190,13 @@
     "url": "{HTML_URL}/24.html",
     "special": ["Port"],
     "author": "Mana Potion Studios, gurtmuncher"
+  },
+  {
+    "id": 25,
+    "name": "Plague Inc.",
+    "cover": "{COVER_URL}/25.png",
+    "url": "{HTML_URL}/25.html",
+    "special": ["Port"],
+    "author": "James Vaughan, reeyuki"
   }
 ]
