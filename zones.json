@@ -150,5 +150,13 @@
     "url": "{HTML_URL}/19.html",
     "special": ["Port"],
     "author": "arydk, sexyplankton"
+  },
+  {
+    "id": 20,
+    "name": "Brotato",
+    "cover": "{COVER_URL}/20.png",
+    "url": "{HTML_URL}/20.html",
+    "special": ["Port"],
+    "author": "Blobfish, dudeluther1232"
   }
 ]
