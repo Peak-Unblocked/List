@@ -182,5 +182,13 @@
     "url": "{HTML_URL}/23.html",
     "special": ["Port"],
     "author": "Phil Fish, gurtmuncher"
+  },
+  {
+    "id": 24,
+    "name": "Happy Room",
+    "cover": "{COVER_URL}/24.png",
+    "url": "{HTML_URL}/24.html",
+    "special": ["Port"],
+    "author": "Mana Potion Studios, gurtmuncher"
   }
 ]
