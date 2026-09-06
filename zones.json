@@ -110,5 +110,13 @@
     "url": "{HTML_URL}/14.html",
     "special": ["Port"],
     "author": "Aggro Crab, Landfall, Dasher"
+  },
+  {
+    "id": 15,
+    "name": "Trombone Champ",
+    "cover": "{COVER_URL}/15.png",
+    "url": "{HTML_URL}/15.html",
+    "special": ["Port"],
+    "author": "Holy Wow Studios, gurtmuncher"
   }
 ]
