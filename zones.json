@@ -206,5 +206,13 @@
     "url": "{HTML_URL}/26.html",
     "special": ["Port"],
     "author": "Johan Hassel, gurtmuncher"
+  },
+  {
+    "id": 27,
+    "name": "SCP: Containment Breach",
+    "cover": "{COVER_URL}/27.png",
+    "url": "{HTML_URL}/27.html",
+    "special": ["Port"],
+    "author": "Regalis, q8j"
   }
 ]
