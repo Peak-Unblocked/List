@@ -198,5 +198,13 @@
     "url": "{HTML_URL}/25.html",
     "special": ["Port"],
     "author": "James Vaughan, reeyuki"
+  },
+  {
+    "id": 26,
+    "name": "Ravenfield",
+    "cover": "{COVER_URL}/26.png",
+    "url": "{HTML_URL}/26.html",
+    "special": ["Port"],
+    "author": "Johan Hassel, gurtmuncher"
   }
 ]
