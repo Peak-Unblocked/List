@@ -214,5 +214,13 @@
     "url": "{HTML_URL}/27.html",
     "special": ["Port"],
     "author": "Regalis, q8j"
+  },
+  {
+    "id": 28,
+    "name": "The Man From The Window 2",
+    "cover": "{COVER_URL}/28.png",
+    "url": "{HTML_URL}/28.html",
+    "special": ["Port"],
+    "author": "Zed_Technician, dudeluther1232"
   }
 ]
