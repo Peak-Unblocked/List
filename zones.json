@@ -230,5 +230,13 @@
     "url": "{HTML_URL}/29.html",
     "special": ["Port"],
     "author": "Luden.io, dasher"
+  },
+  {
+    "id": 30,
+    "name": "World Box",
+    "cover": "{COVER_URL}/30.png",
+    "url": "{HTML_URL}/30.html",
+    "special": ["Port"],
+    "author": "Maxim Karpenko, sexyplankton"
   }
 ]
