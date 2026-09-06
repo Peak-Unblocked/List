@@ -174,5 +174,13 @@
     "url": "{HTML_URL}/22.html",
     "special": ["Port"],
     "author": "countlessnights, NotRexed"
+  },
+  {
+    "id": 23,
+    "name": "Fez",
+    "cover": "{COVER_URL}/23.png",
+    "url": "{HTML_URL}/23.html",
+    "special": ["Port"],
+    "author": "Phil Fish, gurtmuncher"
   }
 ]
