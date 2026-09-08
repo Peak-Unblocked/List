@@ -238,5 +238,13 @@
     "url": "{HTML_URL}/30.html",
     "special": ["Port"],
     "author": "Maxim Karpenko, sexyplankton"
+  },
+  {
+    "id": 31,
+    "name": "Balatro",
+    "cover": "{COVER_URL}/31.png",
+    "url": "{HTML_URL}/31.html",
+    "special": ["Port"],
+    "author": "LocalThunk"
   }
 ]
