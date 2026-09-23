@@ -246,5 +246,13 @@
     "url": "{HTML_URL}/31.html",
     "special": ["Port"],
     "author": "LocalThunk"
+  },
+  {
+    "id": 32,
+    "name": "Among Us",
+    "cover": "{COVER_URL}/32.png",
+    "url": "{HTML_URL}/32.html",
+    "special": ["Port"],
+    "author": "Innersloth, NotRexed"
   }
 ]
